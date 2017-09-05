@@ -71,7 +71,7 @@ GO the runaway cat jokes are the least favorite letter . END
 ```
 
 ## Purpose
-The purpose of the project was to familiarize myself with recurrent neural nets and to use them within Tensorflow. Another goal was to learn about html, css and Flask to be able to deploy a demo though Heroku. The code for the Flask model is available [here](https://github.com/Tranhd/TARS_flask)
+The purpose of the project was to familiarize myself with recurrent neural nets and to use them within Tensorflow. Another goal was to learn about html, css and Flask to be able to deploy a demo though Heroku. The code for the Flask model is available [here](https://github.com/Tranhd/Flask_TARS)
 
 ## Conclusion 
 Generating jokes is a hard and complex task since the models need to understand the semantic meaning of a joke to be able to generate new ones. Besides the difficulty of the problem my computational resources, at the moment, are severely insufficient. TARS doesn't generate jokes close to what a human is able to but can still produce reasonably correct sentences and occasionally something that resemble humor:
